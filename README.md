@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/xravoz" target="blank"><img src="https://img.shields.io/twitter/follow/xravoz?logo=twitter&style=for-the-badge" alt="xravoz" /></a> </p>
 
-- 🌱 I’m currently learning **React- Ejptv1**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/xravoz/](https://www.linkedin.com/in/xravoz/)
 
