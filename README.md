@@ -1,38 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mohamed Khater</h1>
-<h3 align="center">CEO - Founder at CodeVerse | Software engineer | Front-End Developer | Jr Penetration Tester </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Mohamed Khater </h1>
+  <h3 align="center">Software Engineer | Front-End Engineer | React js - Next </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xravoz&label=Profile%20views&color=0e75b6&style=flat" alt="xravoz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/xravoz" target="blank"><img src="https://img.shields.io/twitter/follow/xravoz?logo=twitter&style=for-the-badge" alt="xravoz" /></a> </p>
-
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/xravoz/](https://www.linkedin.com/in/xravoz/)
-
-- 💬 Ask me about **Frontend**
-
-- 📫 How to reach me **gg20205959@gmail.com**
-
-- 📄 Know about my experiences [https://file.io/pvY0NK2xHOur](https://file.io/pvY0NK2xHOur)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://twitter.com/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://fb.com/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://dribbble.com/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://www.behance.net/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://medium.com/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/xravoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xravoz" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohamekhater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamekhater" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/Xravoz">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&width=600&lines=Front-End+Engineer;React js+%7C+Next +%7C+MySQL+%7C+MongoDB;Always+Learning+New+Technologies;Passionate+About+Clean+Code" />
+  </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+- 🎯 **Goal:** Become a world-class software engineer at Google  
+- 💻 **Specialized In:** React, Next, Tailwind ,TypeScript , JavaScript (ES6+)  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xravoz&show_icons=true&locale=en&layout=compact" alt="xravoz" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xravoz&show_icons=true&locale=en" alt="xravoz" /></p>
+## 🛠 Tech & Tools I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,js,git,postman" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xravoz&" alt="xravoz" /></p>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xravoz&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xravoz&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xravoz&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Fun GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="[https://www.linkedin.com/in/bibo0x00](https://www.linkedin.com/in/xravoz/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gg20205959@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Xravoz"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=💡+Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad." />
+</p>
